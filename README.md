@@ -26,6 +26,11 @@ This repository collects extra examples and animations for the
     [video](video/reactive-objects.mp4)
 -   [Drawing on a grid](gfx-drawing-on-a-grid.R) -
     [video](video/drawing-on-a-grid.mp4)
+-   [Annotate a ggplot by drawing on it](gfx-ggplot-annotator.R)
+
+#### Sound
+
+-   [Drum Machine](snd-drum-machine.R) - [video](video/drum-machine.mp4)
 
 #### External Links
 
