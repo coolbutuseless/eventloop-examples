@@ -8,7 +8,7 @@ suppressPackageStartupMessages({
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#' Create a sketch annotation on top of a ggplot
+#' Allow the user to draw an annotation on top of a ggplot
 #'
 #' @param p ggplot2 object
 #' @return line information as a list with `x`, `y` and `idx` suitable
@@ -110,7 +110,7 @@ p <- ggplot(mtcars) +
 
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-# Create an annotation
+# Create an annotation by letting the user draw on it.
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 annotation <- create_annotation(p)
 

@@ -26,3 +26,9 @@ This repository collects extra examples and animations for the
     [video](video/reactive-objects.mp4)
 -   [Drawing on a grid](gfx-drawing-on-a-grid.R) -
     [video](video/drawing-on-a-grid.mp4)
+
+#### External Links
+
+-   [Georgios Karamanis](https://twitter.com/geokaramanis) made a great
+    [Interactive Clock](https://github.com/gkaramanis/clock-eventloop)
+    with eventloop
