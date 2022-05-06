@@ -13,3 +13,16 @@ This repository collects extra examples and animations for the
 
 -   [Colour Picker](app-colour-picker.R) -
     [video](video/colourpicker.mp4)
+-   [Physics simulation](app-physics.R) - [video](video/physics.mp4)
+
+#### Game
+
+-   [Unruly](game-unruly.R) - [video](video/unruly.mp4)
+
+#### Graphics
+
+-   [Starfield](gfx-starfield.R) - [video](video/starfield.mp4)
+-   [Reactive objects](gfx-reactive-objects.R) -
+    [video](video/reactive-objects.mp4)
+-   [Drawing on a grid](gfx-drawing-on-a-grid.R) -
+    [video](video/drawing-on-a-grid.mp4)
