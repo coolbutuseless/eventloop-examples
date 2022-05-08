@@ -27,6 +27,9 @@ This repository collects extra examples and animations for the
 -   [Drawing on a grid](gfx-drawing-on-a-grid.R) -
     [video](video/drawing-on-a-grid.mp4)
 -   [Annotate a ggplot by drawing on it](gfx-ggplot-annotator.R)
+-   [Dynamic polyline
+    simplification](gfx-dynamic-polyline-simplification.R) -
+    [video](video/polyline-simplification.mp4)
 
 #### Sound
 
